@@ -80,11 +80,10 @@ else
 ```
 ## Output  :
 
-![on](https://github.com/user-attachments/assets/6e2bed7b-8044-40f0-b55c-e90164156bc2)
+![on](https://github.com/Girithickrohan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/on'.jpeg)
 
-![off](https://github.com/user-attachments/assets/24739ace-3aee-4c8a-9ae3-278f813fbfe1)
+![off](https://github.com/Girithickrohan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/off.jpeg)
 
- 
 ## layout of the circuit :
 
  <img width="1919" height="1142" alt="layout of the circuit" src="https://github.com/user-attachments/assets/692c714f-f924-4a5a-91b9-6f7a5f3ba570" />
